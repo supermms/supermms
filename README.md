@@ -2,7 +2,7 @@
 ## Hi there , my name is Matheus Moreno Sá.
 
 
-### I'm 21 years old.
+### I'm a 21 years old aspiring Data Scientist
 
 ### Currently learning React.
 
