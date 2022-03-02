@@ -1,10 +1,7 @@
 
-## Hi there , my name is Matheus Moreno Sá.
+## Hi there , my name is Matheus :D
 
-
-### I'm a 21 years old developer and aspiring Data Scientist
-
-### Currently learning React.
+### I'm a 22 years old developer currently studying python for Data Science
 
 ### Computer Science student at Universidade Federal do ABC, Brazil.
 
