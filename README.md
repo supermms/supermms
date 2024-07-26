@@ -1,9 +1,7 @@
 
 ## Hi there , my name is Matheus :D
 
-### I'm a 24y Cooud Solutions Architect
-
-### Computer Science student at Universidade Federal do ABC, Brazil.
+### I'm a Cloud Solutions Architect and Computer Science student at UFABC, Brazil.
 
 <hr/>
 
