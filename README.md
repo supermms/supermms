@@ -1,7 +1,7 @@
 
 ## Hi there , my name is Matheus :D
 
-### I'm a Cloud Solutions Architect and Computer Science student at UFABC, Brazil.
+### I'm a Cloud Solutions Architect and Computer Science student at UNIVESP, Brazil.
 
 <hr/>
 
